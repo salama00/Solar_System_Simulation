@@ -1,5 +1,4 @@
-# Class project: Planetary Science (Spring 2023)
-# What the project is about
+# What the Project is About
 
 This project is based on the paper "Migration and dynamical relaxation in crowded systems of giant
 planets" by Adams & Laughlin. It aims to reproduce the results of the paper.
