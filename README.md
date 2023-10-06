@@ -19,7 +19,7 @@ of the uncertainty of the semi-major axis (a = [0.8AU, 3.36AU]), only 1 trial le
 having a semi-major axis less than 1AU, so statistically it is an outlier.
 # Solar System Simulation Code:
 
-The code is written in Python 3 and uses the Nbody integrator provided in class (Rauch & Hamilton 2002). The code
+The code is written in Python 3 and uses the Nbody integrator provided in class (Rauch & Hamilton 2002)(link:https://www.astro.umd.edu/~rauch/HNBody/). The code
 first writes an hnb file (named inputs.hnb) to give to the Nbody integrator. The mass of the star is set
 to the mass of our sun and the integrator is set to Runge-Katta which is ideal for close encounters between planets.
 
